@@ -3,13 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@react-three/drei": "^8.8.1",
+    "@react-three/fiber": "^7.0.26",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "@types/three": "^0.137.0",
+    "babel-plugin-glsl": "^1.0.0",
+    "glsl-noise": "*",
+    "glslify": "^7.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
-    "web-vitals": "^2.1.4"
+    "three": "^0.137.5",
+    "uuid-by-string": "^3.0.5",
+    "web-vitals": "^2.1.4",
+    "wouter": "*"
   },
   "scripts": {
     "start": "react-scripts start",
